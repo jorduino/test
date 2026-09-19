@@ -1,3 +1,3 @@
 # test
 
-[Link Text](10.10.0.1)
+[Link Text](http://10.10.0.1)
